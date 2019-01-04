@@ -2791,5 +2791,3 @@ function tm_show_others()
 }
 
 ?>
-
-
